@@ -5,7 +5,7 @@ package AkkaTest
   */
 object core {
   def main(args: Array[String]): Unit = {
-    println("akka http")
+
   }
 
 }
